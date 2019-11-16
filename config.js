@@ -15,4 +15,5 @@ var sites = [
 		{alt: "Merankorii",    image:"https://farm6.staticflickr.com/5155/7183716806_996dcdd71d.jpg",                                        link:"http://merankorii.grogue.org"      },
 		{alt: "Noori Records", image:"https://noorirecords.files.wordpress.com/2010/11/redsilk.jpeg?w=400",                                  link:"http://noorirecords.grogue.org"    },
 		{alt: "+ko+ko+",       image:"https://noorirecords.files.wordpress.com/2011/12/aptn.jpeg",                                           link:"http://pluskopluskoplus.grogue.org"},
+		{alt: "Selva Virtual", image:"selva.png",                                                                                            link:"http://selva.grogue.org"           },
 	];
